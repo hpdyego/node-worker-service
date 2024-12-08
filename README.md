@@ -1,4 +1,4 @@
-# node-worker-service
+# node-worker-service-sqs-consummer
  
 # Run
 node src/index.js
