@@ -1,4 +1,5 @@
-const AWS = require('aws-sdk');
+//const AWS = require('aws-sdk');
+import AWS from "aws-sdk";
 
 // Configurar AWS SQS
 const sqs = new AWS.SQS({ region: process.env.AWS_REGION });
